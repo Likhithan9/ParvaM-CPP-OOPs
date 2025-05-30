@@ -1,0 +1,42 @@
+The Car Details are as follows:
+Car Brand:toyota
+Car Model:etios
+Car Variant:petrol
+Launch Year:2023
+Offer Price: Rs,500000
+car has these features: 
+	1. air bags
+	2. unroof
+	3. c
+----------------------------------------The Car Details are as follows:
+Car Brand:totyata
+Car Model:etios
+Car Variant:petrol
+Launch Year:2024
+Offer Price: Rs,14000000
+car has these features: 
+	1. c
+	2. irbags
+	3. oodmilage
+	4. seats
+----------------------------------------The Car Details are as follows:
+Car Brand:Audi
+Car Model:Q6
+Car Variant:Petrol
+Launch Year:2019
+Offer Price: Rs,1200005
+car has these features: 
+	1. re
+	2. rhgh
+	3. ujhj
+	4. jhj
+----------------------------------------The Car Details are as follows:
+Car Brand:toyota
+Car Model:etios
+Car Variant:petrol
+Launch Year:2024
+Offer Price: Rs,1400000
+car has these features: 
+	1. c
+	2. oodmilage
+----------------------------------------
